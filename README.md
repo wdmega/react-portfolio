@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Big Game Survey 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/wdmega/react-portfolio/blob/main/LICENCE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sobre o projeto
 
-## Available Scripts
+https://friendly-puppy-532934.netlify.app/
 
-In the project directory, you can run:
+This is my personal portfolio
 
-### `npm start`
+~~ WRITING MORE SOON ~~
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Layout mobile
+[PUT THE MOBILE VERSION OF THE PAGE/APP]
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Layout web
+[IMAGE WEB 1]
 
-### `npm test`
+[IMAGE WEB 2]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-### `npm run build`
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS / JS 
+- ReactJS
+- Tailwind CSS
+## Implantação em produção
+- Front end web: Netlify
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Como executar o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# entrar na pasta do projeto back end
+cd backend
 
-### `npm run eject`
+# executar o projeto
+./mvnw spring-boot:run
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Front end web
+Pré-requisitos: npm / yarn
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# clonar repositório
+git clone https://github.com/devsuperior/sds1-wmazoni
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# entrar na pasta do projeto front end web
+cd front-web
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# instalar dependências
+yarn install
 
-## Learn More
+# executar o projeto
+yarn start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Autor
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+WWeslley Daniel de Lima Souza
 
-### Code Splitting
+https://www.linkedin.com/in/weslley-lima-5a33b6210/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.youtube.com/watch?v=jIa8R69pKh8
